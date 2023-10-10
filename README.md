@@ -12,7 +12,7 @@ this is a repo designed for starter Hacktoberfest2023
      
   5. add a line from the song as in the below format
      # song name
-     - one single line
+     - one line from song
    6. propose the changes  
   7. Commit your changes:
      
